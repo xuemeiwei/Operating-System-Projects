@@ -1,0 +1,10 @@
+In total the frequency of each word is: 
+hello:4
+are:6
+am:4
+nice:4
+you:3
+testing:7
+good:2
+I:3
+world:4
